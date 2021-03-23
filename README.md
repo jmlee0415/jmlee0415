@@ -4,6 +4,9 @@
 :computer: SKILLS : </br>
   Programming Languages : </br>
   Tools :
+ADDITIONAL INFORMATION:
+  Languages: Fluent in Korean and English
+  
  
 <!--
 **jmlee0415/jmlee0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
