@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi I'm Jeongmin 👋
 
+:school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics
+:computer: SKILLS : 
+  Programming Languages :
+  Tools :
+ 
 <!--
 **jmlee0415/jmlee0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br>
+
+<br>
+
+## Contact 📩 
+
+
+
