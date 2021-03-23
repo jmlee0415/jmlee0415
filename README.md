@@ -2,10 +2,10 @@
 
 :school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics </br>
 :computer: SKILLS : </br>
-  Programming Languages : </br>
-  Tools : </br>
+ Programming Languages : </br>
+    Tools : </br>
 :octocat: ADDITIONAL INFORMATION: </br>
-  Languages: Fluent in Korean and English
+    Languages: Fluent in Korean and English
   
  
 <!--
