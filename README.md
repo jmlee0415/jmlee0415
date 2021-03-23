@@ -48,10 +48,6 @@ Here are some ideas to get you started:
 -->
 
 
-<br>
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmlee0415)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -61,4 +57,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jmlee04150@gmail.com />
 </a>
 
+<br>
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmlee0415)](https://github.com/anuraghazra/github-readme-stats)
