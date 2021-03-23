@@ -1,6 +1,6 @@
 ### Hi I'm Jeongmin 👋
 
-:school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics
+:school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics </br>
 :computer: SKILLS : 
   Programming Languages :
   Tools :
