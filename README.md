@@ -1,12 +1,6 @@
 ### Hi I'm Jeongmin 👋
 
 
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
-	
-  </div>
-
 :school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics </br>
 :computer: SKILLS : </br>
  Programming Languages : </br>
@@ -50,6 +44,7 @@ Here are some ideas to get you started:
 
 
 <br>
+<br>
 
 ## Contact 📩 
 
@@ -57,6 +52,14 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jmlee04150@gmail.com />
 </a>
 
+
+<br>
+
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
+	
+  </div>
 <br>
 
 
