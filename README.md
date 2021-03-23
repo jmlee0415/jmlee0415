@@ -1,7 +1,8 @@
 ### Hi I'm Jeongmin 👋
 
 
-### :school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics </br>
+### :school: EDUCATION 
+BA in Mathematics, with Sepcialty in Statistics </br>
 ### :computer: SKILLS : </br>
   
 <br>
