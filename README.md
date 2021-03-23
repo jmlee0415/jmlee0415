@@ -28,7 +28,7 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 <a href="#">
 <img src="https://img.shields.io/badge/node.js%20-%2335495e.svg?style=for-the-badge&logo=node.js" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/node.express%20-%2335495e.svg?style=for-the-badge&logo=node.express" /></a> &nbsp;
+<img src="https://img.shields.io/badge/express.js%20-%2335495e.svg?style=for-the-badge&logo=express.js" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=blue"/></a> &nbsp;
 </p>
