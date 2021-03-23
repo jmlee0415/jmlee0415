@@ -24,9 +24,14 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 <a href="#">
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/node.js%20-%2335495e.svg?style=for-the-badge&logo=node.js" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/node.express%20-%2335495e.svg?style=for-the-badge&logo=node.express" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=blue"/></a> &nbsp;
 </p>
-
 <br>
 
 <br>
