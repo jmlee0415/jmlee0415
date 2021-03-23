@@ -1,8 +1,8 @@
 ### Hi I'm Jeongmin 👋
 
 
-:school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics </br>
-:computer: SKILLS : </br>
+### :school: EDUCATION : BA in Mathematics, with Sepcialty in Statistics </br>
+### :computer: SKILLS : </br>
   
 <br>
 <br>
@@ -30,7 +30,7 @@
 
 <br>
 
-:octocat: ADDITIONAL INFORMATION: </br>
+### :octocat: ADDITIONAL INFORMATION: </br>
     Languages: Fluent in Korean and English
   
  
