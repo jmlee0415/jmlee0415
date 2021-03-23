@@ -32,7 +32,7 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 <br>
 
 ### :octocat: ADDITIONAL INFORMATION: </br>
-    Languages: Fluent in Korean and English
+Languages: Fluent in Korean and English
   
  
 <!--
