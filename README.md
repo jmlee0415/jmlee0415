@@ -1,7 +1,7 @@
 
 
 
-### Hi I'm Jeongmin 👋
+### :octocat: Hi I'm Jeongmin 👋
   <div align=right>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
@@ -45,13 +45,10 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 </p>
 <br>
 
-<br>
 
-### :octocat: ADDITIONAL INFORMATION: </br>
-Languages: Fluent in Korean and English
-  
- 
-<br>
+
+
+
 
 ## Contact 📩 
 <br>
