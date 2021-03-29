@@ -1,4 +1,12 @@
+
+
+
 ### Hi I'm Jeongmin 👋
+  <div align=right>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
+	
+  </div>
 
 
 ### :school: EDUCATION 
@@ -50,8 +58,3 @@ Languages: Fluent in Korean and English
 
 <br>
 
-  <div align=right>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
-	
-  </div>
