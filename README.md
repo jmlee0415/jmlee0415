@@ -8,7 +8,7 @@
 	
   </div>
 
-
+### :octocat:Interested in AI, ML and Predictive Modeling. 
 ### :school: EDUCATION 
 BA in Mathematics, with Sepcialty in Statistics </br>
 ### :computer: SKILLS : </br>
