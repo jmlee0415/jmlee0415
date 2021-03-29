@@ -6,7 +6,7 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 ### :computer: SKILLS : </br>
   
 <br>
-<br>
+
 
 <p align="left">
 <a href="#">
