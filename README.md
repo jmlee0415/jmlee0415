@@ -16,7 +16,7 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 <a href="#">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
 <a href="#">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> <br>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
 <a href="#">
@@ -31,6 +31,8 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 <img src="https://img.shields.io/badge/express.js%20-%2335495e.svg?style=for-the-badge&logo=express.js" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=blue"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 </p>
 <br>
 
