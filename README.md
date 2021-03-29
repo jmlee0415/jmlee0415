@@ -40,43 +40,17 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 Languages: Fluent in Korean and English
   
  
-<!--
-**jmlee0415/jmlee0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <br>
-<br>
-<br>
+
 ## Contact 📩 
-
+<br>
 <a href="jmlee04150@gmail.com">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jmlee04150@gmail.com />
 </a>
 
-
-
 <br>
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmlee0415)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br>
-
-  <div align=center>
+  <div align=right>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
 	
