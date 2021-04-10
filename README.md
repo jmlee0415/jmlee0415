@@ -44,6 +44,8 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img alt="SAS" src="https://img.shields.io/badge/sas-%23276DC3.svg?&style=for-the-badge&logo=sas&logoColor=white"/></a> &nbsp;
+<a href="#">
+	<img src = "https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Flask&logoColor=black"/></a> 
 </p>
 <br>
 
