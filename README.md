@@ -14,6 +14,8 @@ Please feel free to contact me.
 
 ### :school: EDUCATION 
 BA in Mathematics, with Sepcialty in Statistics </br>
+
+<!--
 ### :computer: SKILLS : </br>
   
 <br>
@@ -50,7 +52,7 @@ BA in Mathematics, with Sepcialty in Statistics </br>
 
 
 
-
+-->
 
 
 ## Contact 📩 
