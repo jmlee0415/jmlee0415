@@ -2,11 +2,13 @@
 
 
 ### :octocat: Hi I'm Jeongmin 👋
+<!--
   <div align=right>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee0415)](https://hits.seeyoufarm.com)
 	
   </div>
+-->
 I am an aspiring Data Scientist/Analyst who is interested in AI, ML and Predictive Modeling. <br>
 Please feel free to contact me.
 
