@@ -10,7 +10,6 @@
   </div>
 -->
 I am an aspiring Data Scientist/Analyst who is interested in AI, ML and Predictive Modeling. <br>
-Please feel free to contact me.
 
 
 
