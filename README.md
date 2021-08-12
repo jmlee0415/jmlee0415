@@ -9,12 +9,12 @@
 	
   </div>
 -->
-I am an aspiring Data Scientist/Analyst who is interested in AI, ML and Predictive Modeling. <br>
+<!-- I am an aspiring Data Scientist/Analyst who is interested in AI, ML and Predictive Modeling. <br> -->
 
 
 
 ### :school: EDUCATION 
-BA in Mathematics, with Sepcialty in Statistics </br>
+BA in Mathematics, with Sepcialty in Statistics </br> 
 
 <!--
 ### :computer: SKILLS : </br>
