@@ -14,7 +14,7 @@
 
 
 ### :school: EDUCATION 
-BA in Mathematics, with Sepcialty in Statistics </br> 
+BA in Mathematics, with Specialty in Statistics </br> 
 
 <!--
 ### :computer: SKILLS : </br>
