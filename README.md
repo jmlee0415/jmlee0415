@@ -1,7 +1,7 @@
 
 
 
-### :octocat: Hi I'm Jeongmin 👋
+### :octocat: Jeongmin Lee 👋
 <!--
   <div align=right>
 	
