@@ -14,7 +14,7 @@
 
 
 ### :school: EDUCATION 
-Boston University, Boston, MA
+Boston University, Boston, MA</br>
 Bachelor of Arts (B.A.) Mathematics, with Specialty in Statistics
 <!-- BA in Mathematics, with Specialty in Statistics | Boston University</br>  -->
 
