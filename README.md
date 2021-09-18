@@ -14,7 +14,7 @@
 
 
 ### :school: EDUCATION 
-BA in Mathematics, with Specialty in Statistics </br> 
+BA in Mathematics, with Specialty in Statistics | Boston University</br> 
 
 <!--
 ### :computer: SKILLS : </br>
